@@ -47,3 +47,4 @@
 3.[Zapiski in vaje za Računalniški praktikum](https://racunalniski-praktikum.github.io/)
 
 4.[Dokumentacija za Markdown na GitHubu](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)         
+5. [Urnik FMF](https://urnik.fmf.uni-lj.si/)
