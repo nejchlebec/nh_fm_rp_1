@@ -12,10 +12,10 @@
 *.nav
 *.out
 *.pdf
+!slika.pdf
 *.pyc
 *.snm
 *.synctex.gz
-
 # MacOS
 __MACOSX
 .DS_Store
