@@ -1,8 +1,18 @@
+# VSCode uporabniške nastavitve
+.vscode/
+
+# LaTeX
 *.aux
+*.bbl
+*.blg
 *.fdb_latexmk
+*.toc
 *.fls
 *.log
+*.nav
+*.out
 *.pdf
+<<<<<<< HEAD
 *.synctex.gz
 # VSCode uporabniške nastavitve
 .vscode/
@@ -18,6 +28,8 @@
 *.nav
 *.out
 *.pdf
+=======
+>>>>>>> 12371e10e47b7c57626311aea7ed80a4e154b46d
 !slika.pdf
 *.pyc
 *.snm
